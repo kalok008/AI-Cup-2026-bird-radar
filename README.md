@@ -5,6 +5,9 @@
 Solution for the [AI Cup 2026](https://www.teamepoch.ai/ai-cup/) performance track: classifying bird groups from radar track data to support bird-collision mitigation around wind farms.
 
 ---
+## Team
+
+- [Boris Hristov](https://github.com/borishristovv)
 
 ## The competition
 
